@@ -1,0 +1,17 @@
+/* Write your code here. */
+li {
+  list-style: none;
+}
+img {
+  margin-right: 20px;
+}
+.light-color {
+  opacity: 0.5;
+}
+.dark-color {
+  opacity: 1;
+}
+button{
+  background-color: transparent;
+  border: none;
+}
